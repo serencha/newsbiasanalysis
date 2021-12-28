@@ -1,6 +1,6 @@
 # News Bias Analysis
 
-News Bias Analysis is a Python library for analyzing sentiment in top news headlines, and finding trends in polarity scores across news sources with different bias ratings. These ratings are found from [allsides.com](allsides.com), and include: far left, left, moderate, right, and far right.
+News Bias Analysis analyzes sentiment in top news headlines, and finding trends in polarity scores across news sources with different bias ratings. These ratings are found from [allsides.com](allsides.com), and include: far left, left, moderate, right, and far right.
 
 ### Installation
 Use the package manager pip to install necessary libraries.
